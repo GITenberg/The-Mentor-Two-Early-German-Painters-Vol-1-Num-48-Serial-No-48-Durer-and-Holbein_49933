@@ -1,4 +1,8 @@
 _repo: The-Mentor-Two-Early-German-Painters-Vol-1-Num-48-Serial-No-48-Durer-and-Holbein_49933
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49933-h/images/cover.jpg
 creator:
   author:
     agent_name: Mather, Frank Jewett
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '4840'
     url: http://www.gutenberg.org/2009/agents/4840
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49933#The-Mentor-Two-Early-German-Painters-Vol-1-Num-48-Serial-No-48-Durer-and-Holbein
 gutenberg_issued: '2015-09-10'
 gutenberg_type: Text
 identifiers:
